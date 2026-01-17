@@ -1,2 +1,4 @@
-   git remote add origin https://github.com/dinmuhammedsh-alt/Shalbay.git
-   git push -u origin main
+git remote add origin https://github.com/dinmuhammedsh-alt
+/Shalbay.git
+git branch -M main
+git push -u origin main
